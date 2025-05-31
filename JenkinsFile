@@ -1,0 +1,5 @@
+stage('Emitir evento'){
+    steps {
+       sh 'npm run emit'
+    }
+}
