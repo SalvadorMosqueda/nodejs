@@ -1,4 +1,4 @@
-stage('Emitir eventos'){
+stage('Emitir eventosss'){
     steps {
        sh 'npm run emit'
     }
